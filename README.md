@@ -6,6 +6,6 @@ Alumno: Oscar Almonacid
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/OscarAlmonacid/PNL/blob/main/PLNimagen.jfif" alt="JuveYell" width="300px">
+<img src="https://github.com/OscarAlmonacid/PNL/blob/main/PLNimagen.jfif" alt="JuveYell" width="3000px">
 </p>
 </div>
