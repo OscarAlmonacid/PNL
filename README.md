@@ -7,3 +7,7 @@ Alumno: Oscar Almonacid
 <img src="https://github.com/OscarAlmonacid/PNL/blob/main/PLNimagen.jfif" alt="JuveYell" width="2000px">
 </p>
 </div>
+## Contenido
+
+### [Desafio 1](1a_word2vec_OAlmonacid.ipynb) 
+* Vectorización de documentos
