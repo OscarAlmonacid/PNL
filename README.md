@@ -12,10 +12,10 @@ Alumno: Oscar Almonacid
 ### [Desafio 1](1a_word2vec_OAlmonacid.ipynb) 
 * Vectorización de documentos
 
-### [Desafio 2](2 - bot_tfidf_nltk_OAlmonacid.ipynb) 
+### [Desafio 2](2_bot_tfidf_nltk_OAlmonacid.ipynb) 
 * Bot _Simple_
 
-### [Desafio 3](3_Custom_embedding_OAlmonacid (1).ipynb) 
+### [Desafio 3](3_Custom_embedding_OAlmonacid.ipynb) 
 * Custom Embedding
 
 ### [Desafio 4](4_predicción_palabra_OAlmonacid.ipynb) 
@@ -24,5 +24,5 @@ Alumno: Oscar Almonacid
 ### [Desafio 5](5_clothing_ecommerce_reviews_OAlmonacid.ipynb) 
 * Sentiment Analysis en e-commerce de ropa
 
-### [Desafio 6](6_bot_OAlmonacid (1).ipynb) 
+### [Desafio 6](6_bot_OAlmonacid.ipynb) 
 * Bot
