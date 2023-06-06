@@ -21,7 +21,7 @@ Alumno: Oscar Almonacid
 ### [Desafio 4](4_predicción_palabra_OAlmonacid.ipynb) 
 * Predición de próxima palabra
 
-### [Desafio 5](5_clothing_ecommerce_reviews_OAlmonacid.ipyn) 
+### [Desafio 5](5_clothing_ecommerce_reviews_OAlmonacid.ipynb) 
 * Sentiment Analysis en e-commerce de ropa
 
 ### [Desafio 6](6_bot_OAlmonacid (1).ipynb) 
