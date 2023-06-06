@@ -1,5 +1,5 @@
 # PNL
-Procesamiento del lenguaje natural, CEIA 7c
+<h1 align="center"> Procesamiento del lenguaje natural, CEIA 7c </h1>
 Repo para subir entregables de la materia
 Alumno: Oscar Almonacid
 <div>
